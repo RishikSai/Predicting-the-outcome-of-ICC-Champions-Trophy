@@ -1,0 +1,121 @@
+﻿Player,Team,Matches_played,Runs_scored,Bat_Average,Wickets_taken,Bowl_Average,Economy,Matches_Played_in_Championstrophy,ChampionsTrophy_Runs,ChampionsTrophy_Wickets,Role
+Travis Head,Australia,69,2645,44.08,24,44.2,5.69,3,71,1,Batter
+Marnus Labuschagne,Australia,59,1778,36.29,6,47.33,6.79,0,0,0,Batter
+Matthew Short,Australia,11,195,21.67,1,162,6,0,0,0,Batter
+Steven Smith,Australia,165,5662,43.55,28,34.68,5.41,3,86,0,Batter
+Glenn Maxwell,Australia,145,3950,34.05,75,46.67,5.44,5,81,0,All-Rounder
+Marcus Stoinis,Australia,71,1495,26.7,48,43.12,6,0,0,0,All-Rounder
+Mitchell Marsh,Australia,93,2794,35.82,57,35.72,5.52,3,31,0,All-Rounder
+Aaron Hardie,Australia,11,134,16.75,7,37.71,5.28,0,0,0,All-Rounder
+Alex Carey,Australia,76,1978,34.7,0,0,0,0,0,0,WicketKeeper-Batter
+Josh Inglis,Australia,26,521,23.68,0,0,0,0,0,0,WicketKeeper-Batter
+Pat Cummins,Australia,90,537,14.51,143,28.78,5.27,3,4,2,Bowler
+Mitchell Starc,Australia,127,577,12.02,244,23.41,5.26,4,5,6,Bowler
+Adam Zampa,Australia,106,327,9.62,180,28.29,5.53,2,0,2,Bowler
+Josh Hazelwood,Australia,91,131,16.38,138,27.27,4.77,3,1,9,Bowler
+Nathan Ellis,Australia,8,63,21,10,38.2,5.96,0,0,0,Bowler
+Jos Buttler,England,181,5022,39.54,0,0,0,9,109,0,WicketKeeper-Batter
+Joe Root,England,171,6522,47.61,27,58.74,5.81,9,431,1,Batter
+Ben Duckett,England,16,700,46.67,0,0,0,0,0,0,Batter
+Harry Brook,England,20,719,39.94,0,0,0,0,0,0,Batter
+Philip Salt,England,27,866,34.64,0,0,0,0,0,0,WicketKeeper-Batter
+Liam Livingstone,England,33,844,35.17,21,36.62,6.1,0,0,0,All-Rounder
+Jamie Smith,England,7,133,22.17,0,0,0,0,0,0,All-Rounder
+Jacob Bethell,England,8,167,27.83,4,36,7.2,0,0,0,All-Rounder
+Mark Wood,England,66,157,14.27,77,39.48,5.53,4,3,5,Bowler
+Jofra Archer,England,27,81,11.57,47,25.13,5.01,0,0,0,Bowler
+Jamie Overton,England,2,32,16,1,17,4.25,0,0,0,Bowler
+Adil Rashid,England,143,904,18.45,205,32.8,5.62,3,19,7,Bowler
+Gus Atkinson,England,9,63,15.75,11,35.36,6.11,0,0,0,Bowler
+Brydon Carse,England,19,192,24,23,35.91,6.18,0,0,0,Bowler
+Saqid Mahmood,England,9,20,10,14,26.86,4.83,0,0,0,Bowler
+Kane Williamson,New Zealand,165,6811,48.3,37,39.65,5.36,6,345,1,Batter
+Mark Chapman,New Zealand,29,736,35.05,0,0,0,0,0,0,Batter
+Will Young,New Zealand,37,1480,46.25,0,0,0,0,0,0,Batter
+Daryl Mitchell,New Zealand,42,1617,50.53,13,22.15,5.7,0,0,0,All-Rounder
+Rachin Ravindra,New Zealand,28,945,41.09,18,46.61,6.03,0,0,0,All-Rounder
+Michael Bracewell,New Zealand,23,557,39.79,21,37.52,5.22,0,0,0,All-Rounder
+Glenn Phillips,New Zealand,36,781,31.24,13,42.08,5.88,0,0,0,All-Rounder
+Mitchell Santner,New Zealand,110,1392,26.26,112,36.98,4.85,3,25,1,All-Rounder
+Nathan Smith,New Zealand,5,26,6.5,5,45.2,6.65,0,0,0,All-Rounder
+Devon Conway,New Zealand,32,1246,44.5,0,0,0,0,0,0,WicketKeeper-Batter
+Tom Latham,New Zealand,149,4100,34.45,0,0,0,0,0,0,WicketKeeper-Batter
+Lockie Ferguson,New Zealand,65,122,7.18,99,31.56,5.68,0,0,0,Bowler
+Matt Henry,New Zealand,85,268,10.72,150,25.43,5.17,0,0,0,Bowler
+William Orourke,New Zealand,6,5,5,8,31.62,5.6,0,0,0,Bowler
+Ben Sears,New Zealand,0,0,0,0,0,0,0,0,0,Bowler
+Temba Bavuma,South Africa,44,1631,40.77,0,0,3.57,0,0,0,Batter
+Aiden Markram,South Africa,74,2288,36.32,20,49.7,5.62,0,0,0,Batter
+Rassie van der Dussen,South Africa,68,2464,48.31,1,3,3,0,0,0,Batter
+David Miller,South Africa,175,4490,41.57,0,0,0,7,207,0,Batter
+Tony de Zorzi,South Africa,12,449,40.82,0,0,0,0,0,0,Batter
+Heinrich Klaasen,South Africa,57,1987,43.2,0,0,6.6,0,0,0,WicketKeeper-Batter
+Ryan Rickelton,South Africa,6,188,31.33,0,0,0,0,0,0,WicketKeeper-Batter
+Tristan Stubbs,South Africa,8,249,41.5,0,0,7.5,0,0,0,WicketKeeper-Batter
+Wiann Mulder,South Africa,20,190,15.83,14,39.5,6.01,0,0,0,All-Rounder
+Marco Jansen,South Africa,26,461,27.12,41,32,6.31,0,0,0,All-Rounder
+Kagiso Rabada,South Africa,103,385,14.81,162,27.56,5.06,3,31,1,Bowler
+Lungi Ngidi,South Africa,62,123,11.18,96,28.43,5.7,0,0,0,Bowler
+Anrich Nortje,South Africa,22,40,6.67,36,27.28,5.86,0,0,0,Bowler
+Keshav Maharaj,South Africa,44,238,13.22,55,30.65,4.56,0,0,0,Bowler
+Tabraiz Shamsi,South Africa,53,39,9.75,73,32.81,3.45,0,0,0,Bowler
+Soumya Sarkar,Bangladesh,75,2198,32.81,16,35.44,6.1,4,34,0,Batter
+Towhid Hridoy,Bangladesh,33,877,33.73,0,0,0,0,0,0,Batter
+Najmul Hossian Shanto,Bangladesh,47,1488,34.6,1,77,5.7,0,0,0,Batter
+Tanzid Hasan,Bangladesh,20,413,20.65,0,0,0,0,0,0,Batter
+Mahmudullah,Bangladesh,238,5685,36.68,82,46.46,5.22,4,137,0,All-Rounder
+Mehidy Hasan Miraz,Bangladesh,103,1599,24.98,110,36.1,4.85,1,14,0,All-Rounder
+Mushfiqur Rahim,Bangladesh,272,7793,36.59,0,0,0,4,163,0,WicketKeeper-Batter
+Jaker Ali,Bangladesh,5,151,50.33,0,0,0,0,0,0,WicketKeeper-Batter
+Parvez Hossain Emon,Bangladesh,0,0,0,0,0,0,0,0,0,WicketKeeper-Batter
+Rishad Hossain,Bangladesh,7,55,18.33,5,66.4,6.02,0,0,0,Bowler
+Mustafizur Rahman,Bangladesh,107,163,7.76,172,25.88,5.17,4,1,1,Bowler
+Taskin Ahmed,Bangladesh,77,219,7.82,109,30.02,5.41,2,10,2,Bowler
+Nahid Rana,Bangladesh,3,4,0,4,31.5,4.72,0,0,0,Bowler
+Nasum Ahmed,Bangladesh,18,186,20.67,16,41.12,4.49,0,0,0,Bowler
+Tanzim Hasan Sakib,Bangladesh,9,45,31.67,13,31.62,5.78,0,0,0,Bowler
+Hashmatullah Shahidi,Afghanistan,87,2375,33.93,0,0,8.33,0,0,0,Batter
+Rahmat Shah,Afghanistan,120,3870,35.18,15,35.47,5.88,0,0,0,Batter
+Sediqullah Atal,Afghanistan,6,230,46,0,0,0,0,0,0,Batter
+Ibrahim Zadran,Afghanistan,33,1439,47.97,0,0,0,0,0,0,Batter
+Gulbadin Naib,Afghanistan,86,1314,20.22,73,35.85,5.55,0,0,0,All-Rounder
+Azmatullah Omarzai,Afghanistan,36,907,45.35,30,32.4,5.38,0,0,0,All-Rounder
+Mohammad Nabi,Afghanistan,170,3606,27.11,172,32.47,4.28,0,0,0,All-Rounder
+Rashid Khan,Afghanistan,111,1346,19.51,198,19.87,4.2,0,0,0,All-Rounder
+Rahmanullah Gurbaz,Afghanistan,46,1769,39.31,0,0,0,0,0,0,WicketKeeper-Batter
+Ikram Alikhil,Afghanistan,32,384,22.59,0,0,0,0,0,0,WicketKeeper-Batter
+Fazalhaq Farooqi,Afghanistan,39,21,3.5,50,31.78,5.78,0,0,0,Bowler
+Fareed Ahmad Malik,Afghanistan,19,46,11.5,25,27.12,5.42,0,0,0,Bowler
+AM Ghazanfar,Afghanistan,11,37,12.33,21,13.57,4.05,0,0,0,Bowler
+Noor Ahmad,Afghanistan,10,31,10.33,9,57.22,6.06,0,0,0,Bowler
+Naveed Zadran,Afghanistan,4,10,10,3,22,26.33,0,0,0,Bowler
+Rohit Sharma,India,265,10866,49.17,9,59.22,5.24,10,481,0,Batter
+Shubman Gill,India,47,2328,58.2,0,0,8.33,0,0,0,Batter
+Virat Kohli,India,295,13906,58.18,5,136,6.16,13,529,0,Batter
+Shreyas Iyer,India,62,2421,47.47,0,0,6.32,0,0,0,Batter
+KL Rahul,India,77,2851,49.16,0,0,0,0,0,0,WicketKeeper-Batter
+Rishabh Pant,India,31,871,33.5,0,0,0,0,0,0,WicketKeeper-Batter
+Hardik Pandya,India,86,1769,34.02,84,35.24,5.55,5,105,4,All-Rounder
+Ravindra Jadeja,India,197,2756,32.42,220,36.07,4.88,10,95,16,All-Rounder
+Axar Patel,India,60,568,19.59,64,32.56,4.5,0,0,0,All-Rounder
+Kuldeep Yadav,India,106,205,9.76,172,26,5,0,0,0,Bowler
+Jasprit Bumrah,India,89,91,7.58,149,23.55,4.6,5,1,4,Bowler
+Mohammed Shami,India,101,220,7.86,195,23.68,5.56,0,0,0,Bowler
+Washington Sundar,India,22,315,24.23,23,27.22,4.71,0,0,0,All-Rounder
+Arshdeep Singh,India,8,37,9.25,12,24.08,5.06,0,0,0,Bowler
+Yashasvi Jaiswal,India,0,0,0,0,0,0,0,0,0,Batter
+Babar Azam,Pakistan,123,5927,56.73,0,0,0,5,133,0,Batter
+Saim Ayub,Pakistan,9,515,64.38,5,27.8,4.63,0,0,0,All-Rounder
+Fakhar Zaman,Pakistan,82,3492,46.56,1,111,4.93,4,252,0,Batter
+Mohammad Rizwan,Pakistan,83,2352,41.26,0,0,0,0,0,0,WicketKeeper-Batter
+Abdullah Shafique,Pakistan,21,612,32.21,0,0,0,0,0,0,Batter
+Kamran Ghulam,Pakistan,9,192,32,1,16,4,0,0,0,All-Rounder
+Shadab Khan,Pakistan,70,855,25.91,85,34.82,5.24,4,14,4,All-Rounder
+Usman Khan,Pakistan,0,0,0,0,0,0,0,0,0,WicketKeeper-Batter
+Shaheen Afridi,Pakistan,59,236,14.75,119,23.14,5.5,0,0,0,Bowler
+Haris Rauf,Pakistan,45,74,7.4,82,25.77,5.82,0,0,0,Bowler
+Naseem Shah,Pakistan,20,85,42.5,42,20.02,5.09,0,0,0,Bowler
+Abrar Ahmed,Pakistan,4,4,4,10,15.8,4.39,0,0,0,Bowler
+Tayyab Tahir,Pakistan,3,57,57,0,0,0,0,0,0,Batter
+Salman Ali Agha,Pakistan,30,696,40.94,15,40.67,5.5,0,0,0,All-Rounder
+Mohammad Hasnain,Pakistan,14,53,17.67,17,40.18,6.12,0,0,0,Bowler

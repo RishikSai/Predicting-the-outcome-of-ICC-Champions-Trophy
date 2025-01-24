@@ -1,0 +1,867 @@
+﻿Date,Team_A,Team_B,Winner,Margin,Venue
+17/04/2015,Bangladesh,Pakistan,Bangladesh,wonby79runs,ShereBanglaNationalStadium
+19/04/2015,Bangladesh,Pakistan,Bangladesh,wonby7wickets,ShereBanglaNationalStadium
+22/04/2015,Bangladesh,Pakistan,Bangladesh,wonby8wickets,ShereBanglaNationalStadium
+08/05/2015,Ireland,England,Noresult,Noresult,TheVillage
+26/05/2015,Pakistan,Zimbabwe,Pakistan,wonby41runs,GaddafiStadium
+29/05/2015,Pakistan,Zimbabwe,Pakistan,wonby6wickets,GaddafiStadium
+31/05/2015,Pakistan,Zimbabwe,Noresult,Noresult,GaddafiStadium
+09/06/2015,England,New Zealand,England,wonby210runs,Edgbaston
+12/06/2015,England,New Zealand,New Zealand,wonby13runs,KenningtonOval
+14/06/2015,England,New Zealand,New Zealand,wonby3wickets,TheRoseBowl
+17/06/2015,England,New Zealand,England,wonby7wickets,TrentBridge
+18/06/2015,Bangladesh,India,Bangladesh,wonby79runs,ShereBanglaNationalStadium
+20/06/2015,England,New Zealand,England,wonby3wickets,RiversideGround
+21/06/2015,Bangladesh,India,Bangladesh,wonby6wickets,ShereBanglaNationalStadium
+24/06/2015,Bangladesh,India,India,wonby77runs,ShereBanglaNationalStadium
+10/07/2015,Bangladesh,South Africa,South Africa,wonby8wickets,ShereBanglaNationalStadium
+10/07/2015,Zimbabwe,India,India,wonby4runs,HarareSportsClub
+11/07/2015,SriLanka,Pakistan,Pakistan,wonby6wickets,RangiriDambullaInternationalStadium
+12/07/2015,Bangladesh,South Africa,Bangladesh,wonby7wickets,ShereBanglaNationalStadium
+12/07/2015,Zimbabwe,India,India,wonby62runs,HarareSportsClub
+14/07/2015,Zimbabwe,India,India,wonby83runs,HarareSportsClub
+15/07/2015,Bangladesh,South Africa,Bangladesh,wonby9wickets,ZahurAhmedChowdhuryStadium
+15/07/2015,SriLanka,Pakistan,SriLanka,wonby2wickets,PallekeleInternationalCricketStadium
+19/07/2015,SriLanka,Pakistan,Pakistan,wonby135runs,RPremadasaStadium
+22/07/2015,SriLanka,Pakistan,Pakistan,wonby7wickets,RPremadasaStadium
+26/07/2015,SriLanka,Pakistan,SriLanka,wonby165runs,MahindaRajapakshaInternationalCricketStadium
+02/08/2015,Zimbabwe,New Zealand,Zimbabwe,wonby7wickets,HarareSportsClub
+04/08/2015,Zimbabwe,New Zealand,New Zealand,wonby10wickets,HarareSportsClub
+07/08/2015,Zimbabwe,New Zealand,New Zealand,wonby38runs,HarareSportsClub
+19/08/2015,South Africa,New Zealand,South Africa,wonby20runs,SuperSportPark
+23/08/2015,South Africa,New Zealand,New Zealand,wonby8wickets,SenwesPark
+26/08/2015,South Africa,New Zealand,South Africa,wonby62runs,Kingsmead
+27/08/2015,Ireland,Australia,Australia,wonby23runs,CivilServiceCricketClub
+03/09/2015,England,Australia,Australia,wonby59runs,TheRoseBowl
+05/09/2015,England,Australia,Australia,wonby64runs,Lord's
+08/09/2015,England,Australia,England,wonby93runs,OldTrafford
+11/09/2015,England,Australia,England,wonby3wickets,Headingley
+12/09/2015,England,Australia,Australia,wonby8wickets,OldTrafford
+01/10/2015,Zimbabwe,Pakistan,Pakistan,wonby131runs,HarareSportsClub
+03/10/2015,Zimbabwe,Pakistan,Zimbabwe,wonby5runs,HarareSportsClub
+05/10/2015,Zimbabwe,Pakistan,Pakistan,wonby7wickets,HarareSportsClub
+14/10/2015,India,South Africa,India,wonby22runs,HolkarCricketStadium
+16/10/2015,Zimbabwe,Afghanistan,Zimbabwe,wonby8wickets,QueensSportsClub
+18/10/2015,India,South Africa,South Africa,South Africawonby18runs,SaurashtraCricketAssociationStadium
+18/10/2015,Zimbabwe,Afghanistan,Afghanistan,wonby58runs,QueensSportsClub
+20/10/2015,Zimbabwe,Afghanistan,Zimbabwe,Zimbabwewonby6wickets,QueensSportsClub
+22/10/2015,India,South Africa,India,Indiawonby35runs,MAChidambaramStadium
+22/10/2015,Zimbabwe,Afghanistan,Afghanistan,Afghanistanwonby3wickets,QueensSportsClub
+24/10/2015,Zimbabwe,Afghanistan,Afghanistan,Afghanistanwonby73runs,QueensSportsClub
+25/10/2015,India,South Africa,South Africa,South Africawonby214runs,WankhedeStadium
+01/11/2015,SriLanka,WestIndies,SriLanka,SriLankawonby1wicket,RPremadasaStadium
+04/11/2015,SriLanka,WestIndies,SriLanka,SriLankawonby8wickets,RPremadasaStadium
+07/11/2015,Bangladesh,Zimbabwe,Bangladesh,Bangladeshwonby145runs,ShereBanglaNationalStadium
+07/11/2015,SriLanka,WestIndies,SriLanka,SriLankawonby19runs,PallekeleInternationalCricketStadium
+09/11/2015,Bangladesh,Zimbabwe,Bangladesh,Bangladeshwonby58runs,ShereBanglaNationalStadium
+11/11/2015,Bangladesh,Zimbabwe,Bangladesh,Bangladeshwonby61runs,ShereBanglaNationalStadium
+11/11/2015,Pakistan,England,Pakistan,Pakistanwonby6wickets,SheikhZayedStadium
+13/11/2015,Pakistan,England,England,Englandwonby95runs,SheikhZayedStadium
+17/11/2015,Pakistan,England,England,Englandwonby6wickets,SharjahCricketStadium
+20/11/2015,Pakistan,England,England,Englandwonby84runs,DubaiInternationalCricketStadium
+25/12/2015,Afghanistan,Zimbabwe,Afghanistan,Afghanistanwonby49runs,SharjahCricketStadium
+26/12/2015,New Zealand,SriLanka,New Zealand,New Zealandwonby7wickets,HagleyOval
+28/12/2015,New Zealand,SriLanka,New Zealand,New Zealandwonby10wickets,HagleyOval
+29/12/2015,Afghanistan,Zimbabwe,Afghanistan,Afghanistanwonby4wickets,SharjahCricketStadium
+31/12/2015,New Zealand,SriLanka,SriLanka,SriLankawonby8wickets,SaxtonOval
+02/01/2016,Afghanistan,Zimbabwe,Zimbabwe,wonby117runs,SharjahCricketStadium
+02/01/2016,New Zealand,SriLanka,Noresult,Noresult,SaxtonOval
+04/01/2016,Afghanistan,Zimbabwe,Zimbabwe,wonby65runs,SharjahCricketStadium
+05/01/2016,New Zealand,SriLanka,New Zealand,wonby36runs,BayOval
+06/01/2016,Afghanistan,Zimbabwe,Afghanistan,wonby2wickets,SharjahCricketStadium
+12/01/2016,Australia,India,Australia,wonby5wickets,WACAGround
+15/01/2016,Australia,India,Australia,wonby7wickets,BrisbaneCricketGround
+20/01/2016,Australia,India,Australia,wonby25runs,ManukaOval
+23/01/2016,Australia,India,India,wonby6wickets,SydneyCricketGround
+25/01/2016,New Zealand,Pakistan,New Zealand,wonby70runs,BasinReserve
+28/01/2016,New Zealand,Pakistan,Matchabandoned,Matchabandoned,McLeanPark
+31/01/2016,New Zealand,Pakistan,New Zealand,wonby3wickets,EdenPark
+03/02/2016,New Zealand,Australia,New Zealand,wonby159runs,EdenPark
+03/02/2016,South Africa,England,England,wonby39runs,MangaungOval
+06/02/2016,New Zealand,Australia,Australia,wonby4wickets,SkyStadium
+06/02/2016,South Africa,England,England,wonby5wickets,StGeorge'sPark
+08/02/2016,New Zealand,Australia,New Zealand,wonby55runs,SeddonPark
+09/02/2016,South Africa,England,South Africa,wonby7wickets,SuperSportPark
+12/02/2016,South Africa,England,South Africa,wonby1wicket,WanderersStadium
+14/02/2016,South Africa,England,South Africa,wonby5wickets,Newlands
+05/06/2016,WestIndies,Australia,Australia,wonby6wickets,ProvidenceStadium
+07/06/2016,Australia,South Africa,South Africa,wonby47runs,ProvidenceStadium
+11/06/2016,Australia,South Africa,Australia,wonby36runs,WarnerPark
+11/06/2016,Zimbabwe,India,India,wonby9wickets,HarareSportsClub
+13/06/2016,WestIndies,Australia,WestIndies,wonby4wickets,WarnerPark
+13/06/2016,Zimbabwe,India,India,wonby8wickets,HarareSportsClub
+15/06/2016,WestIndies,South Africa,South Africa,wonby139runs,WarnerPark
+15/06/2016,Zimbabwe,India,India,wonby10wickets,HarareSportsClub
+16/06/2016,Ireland,SriLanka,SriLanka,wonby76runs,TheVillage
+18/06/2016,Ireland,SriLanka,SriLanka,wonby136runs,TheVillage
+19/06/2016,Australia,South Africa,Noresult,Noresult,KensingtonOval
+21/06/2016,England,SriLanka,MatchTied,MatchTied,TrentBridge
+21/06/2016,WestIndies,Australia,Australia,wonby6wickets,KensingtonOval
+24/06/2016,England,SriLanka,England,wonby10wickets,Edgbaston
+24/06/2016,WestIndies,South Africa,WestIndies,wonby100runs,KensingtonOval
+26/06/2016,England,SriLanka,Noresult,Noresult,CountyGround(Bristol)
+26/06/2016,WestIndies,Australia,Australia,wonby58runs,KensingtonOval
+29/06/2016,England,SriLanka,England,wonby6wickets,KenningtonOval
+02/07/2016,England,SriLanka,England,wonby122runs,SophiaGardens
+04/07/2016,Scotland,Afghanistan,Noresult,Noresult,GrangeCricketClub
+06/07/2016,Scotland,Afghanistan,Afghanistan,wonby78runs,GrangeCricketClub
+10/07/2016,Ireland,Afghanistan,Matchabandoned,Matchabandoned,CivilServiceCricketClub
+12/07/2016,Ireland,Afghanistan,Afghanistan,wonby39runs,CivilServiceCricketClub
+14/07/2016,Ireland,Afghanistan,Ireland,wonby6wickets,CivilServiceCricketClub
+17/07/2016,Ireland,Afghanistan,Afghanistan,wonby79runs,CivilServiceCricketClub
+19/07/2016,Ireland,Afghanistan,Ireland,wonby12runs,CivilServiceCricketClub
+18/08/2016,Ireland,Pakistan,Pakistan,wonby255runs,TheVillage
+20/08/2016,Ireland,Pakistan,Matchabandoned,Matchabandoned,TheVillage
+21/08/2016,SriLanka,Australia,Australia,wonby3wickets,RPremadasaStadium
+24/08/2016,England,Pakistan,England,wonby44runs,TheRoseBowl
+24/08/2016,SriLanka,Australia,SriLanka,wonby82runs,RPremadasaStadium
+27/08/2016,England,Pakistan,England,wonby4wickets,Lord's
+28/08/2016,SriLanka,Australia,Australia,wonby2wickets,RangiriDambullaInternationalStadium
+30/08/2016,England,Pakistan,England,wonby169runs,TrentBridge
+31/08/2016,SriLanka,Australia,Australia,wonby6wickets,RangiriDambullaInternationalStadium
+01/09/2016,England,Pakistan,England,wonby4wickets,Headingley
+04/09/2016,England,Pakistan,Pakistan,wonby4wickets,SophiaGardens
+04/09/2016,SriLanka,Australia,Australia,wonby5wickets,PallekeleInternationalCricketStadium
+25/09/2016,Bangladesh,Afghanistan,Bangladesh,wonby7runs,ShereBanglaNationalStadium
+25/09/2016,South Africa,Ireland,South Africa,wonby206runs,WillowmoorePark
+27/09/2016,Australia,Ireland,Australia,wonby9wickets,WillowmoorePark
+28/09/2016,Bangladesh,Afghanistan,Afghanistan,wonby2wickets,ShereBanglaNationalStadium
+30/09/2016,Pakistan,WestIndies,Pakistan,wonby111runs,SharjahCricketStadium
+30/09/2016,South Africa,Australia,South Africa,wonby6wickets,SuperSportPark
+01/10/2016,Bangladesh,Afghanistan,Bangladesh,wonby141runs,ShereBanglaNationalStadium
+02/10/2016,Pakistan,WestIndies,Pakistan,wonby59runs,SharjahCricketStadium
+02/10/2016,South Africa,Australia,South Africa,wonby142runs,WanderersStadium
+05/10/2016,Pakistan,WestIndies,Pakistan,wonby136runs,SheikhZayedStadium
+05/10/2016,South Africa,Australia,South Africa,wonby4wickets,Kingsmead
+07/10/2016,Bangladesh,England,England,wonby21runs,ShereBanglaNationalStadium
+08/10/2016,South Africa,Australia,South Africa,wonby6wickets,StGeorge'sPark
+09/10/2016,Bangladesh,England,Bangladesh,wonby34runs,ShereBanglaNationalStadium
+12/10/2016,Bangladesh,England,England,wonby4wickets,ZahurAhmedChowdhuryStadium
+12/10/2016,South Africa,Australia,South Africa,wonby31runs,Newlands
+16/10/2016,India,New Zealand,India,wonby6wickets,HimachalPradeshCricketAssociationStadium
+20/10/2016,India,New Zealand,New Zealand,wonby6runs,ArunJaitleyStadium
+23/10/2016,India,New Zealand,India,wonby7wickets,PunjabCricketAssociationISBindraStadium
+26/10/2016,India,New Zealand,New Zealand,wonby19runs,JSCAInternationalStadiumComplex
+29/10/2016,India,New Zealand,India,wonby190runs,DrYSRajasekharaReddyCricketStadium
+14/11/2016,Zimbabwe,SriLanka,SriLanka,wonby8wickets,HarareSportsClub
+16/11/2016,SriLanka,WestIndies,WestIndies,wonby62runs,HarareSportsClub
+19/11/2016,Zimbabwe,WestIndies,MatchTied,MatchTied,QueensSportsClub
+21/11/2016,Zimbabwe,SriLanka,Noresult,Noresult,QueensSportsClub
+23/11/2016,SriLanka,WestIndies,SriLanka,wonby1run,QueensSportsClub
+25/11/2016,Zimbabwe,WestIndies,Zimbabwe,wonby5runs,QueensSportsClub
+27/11/2016,Zimbabwe,SriLanka,SriLanka,wonby6wickets,QueensSportsClub
+04/12/2016,Australia,New Zealand,Australia,wonby68runs,SydneyCricketGround
+06/12/2016,Australia,New Zealand,Australia,wonby116runs,ManukaOval
+09/12/2016,Australia,New Zealand,Australia,wonby117runs,MelbourneCricketGround
+26/12/2016,New Zealand,Bangladesh,New Zealand,wonby77runs,HagleyOval
+29/12/2016,New Zealand,Bangladesh,New Zealand,wonby67runs,SaxtonOval
+31/12/2016,New Zealand,Bangladesh,New Zealand,wonby8wickets,SaxtonOval
+13/01/2017,Australia,Pakistan,Australia,wonby92runs,BrisbaneCricketGround
+15/01/2017,India,England,India,wonby3wickets,MaharashtraCricketAssociationStadium
+15/01/2017,Australia,Pakistan,Pakistan,wonby6wickets,MelbourneCricketGround
+19/01/2017,Australia,Pakistan,Australia,wonby7wickets,WACAGround
+19/01/2017,India,England,India,wonby15runs,BarabatiStadium
+22/01/2017,India,England,England,wonby5runs,EdenGardens
+22/01/2017,Australia,Pakistan,Australia,wonby86runs,SydneyCricketGround
+26/01/2017,Australia,Pakistan,Australia,wonby57runs,AdelaideOval
+28/01/2017,South Africa,SriLanka,South Africa,wonby8wickets,StGeorge'sPark
+30/01/2017,New Zealand,Australia,New Zealand,wonby6runs,EdenPark
+01/02/2017,South Africa,SriLanka,South Africa,wonby121runs,Kingsmead
+02/02/2017,New Zealand,Australia,Matchabandoned,Matchabandoned,McLeanPark
+04/02/2017,South Africa,SriLanka,South Africa,wonby7wickets,WanderersStadium
+05/02/2017,New Zealand,Australia,New Zealand,wonby24runs,SeddonPark
+07/02/2017,South Africa,SriLanka,South Africa,wonby40runs,Newlands
+10/02/2017,South Africa,SriLanka,South Africa,wonby88runs,SuperSportPark
+16/02/2017,Zimbabwe,Afghanistan,Afghanistan,wonby12runs,HarareSportsClub
+19/02/2017,New Zealand,South Africa,South Africa,wonby4wickets,SeddonPark
+19/02/2017,Zimbabwe,Afghanistan,Afghanistan,wonby54runs,HarareSportsClub
+21/02/2017,Zimbabwe,Afghanistan,Zimbabwe,wonby3runs,HarareSportsClub
+22/02/2017,New Zealand,South Africa,New Zealand,wonby6runs,HagleyOval
+24/02/2017,Zimbabwe,Afghanistan,Zimbabwe,wonby7wickets,HarareSportsClub
+25/02/2017,New Zealand,South Africa,South Africa,wonby159runs,SkyStadium
+26/02/2017,Zimbabwe,Afghanistan,Afghanistan,wonby106runs,HarareSportsClub
+01/03/2017,New Zealand,South Africa,New Zealand,wonby7wickets,SeddonPark
+03/03/2017,WestIndies,England,England,wonby45runs,SirVivianRichardsStadium
+04/03/2017,New Zealand,South Africa,South Africa,wonby6wickets,EdenPark
+05/03/2017,WestIndies,England,England,wonby4wickets,SirVivianRichardsStadium
+09/03/2017,WestIndies,England,England,wonby186runs,KensingtonOval
+15/03/2017,Afghanistan,Ireland,Afghanistan,wonby30runs,GreaterNoidaSportsComplexGround
+17/03/2017,Afghanistan,Ireland,Afghanistan,wonby34runs,GreaterNoidaSportsComplexGround
+19/03/2017,Afghanistan,Ireland,RepublicofIreland,wonby6wickets,GreaterNoidaSportsComplexGround
+22/03/2017,Afghanistan,Ireland,RepublicofIreland,wonby3wickets,GreaterNoidaSportsComplexGround
+24/03/2017,Afghanistan,Ireland,Afghanistan,wonby7wickets,GreaterNoidaSportsComplexGround
+25/03/2017,SriLanka,Bangladesh,Bangladesh,wonby90runs,RangiriDambullaInternationalStadium
+28/03/2017,SriLanka,Bangladesh,Noresult,Noresult,RangiriDambullaInternationalStadium
+01/04/2017,SriLanka,Bangladesh,SriLanka,wonby70runs,SinhaleseSportsClubGround
+07/04/2017,WestIndies,Pakistan,WestIndies,wonby4wickets,ProvidenceStadium
+09/04/2017,WestIndies,Pakistan,Pakistan,wonby74runs,ProvidenceStadium
+11/04/2017,WestIndies,Pakistan,Pakistan,wonby6wickets,ProvidenceStadium
+05/05/2017,England,Ireland,England,wonby7wickets,CountyGround(Bristol)
+07/05/2017,England,Ireland,England,wonby85runs,Lord's
+12/05/2017,Ireland,Bangladesh,Noresult,Noresult,TheVillage
+14/05/2017,Ireland,New Zealand,New Zealand,wonby51runs,TheVillage
+17/05/2017,Bangladesh,New Zealand,New Zealand,wonby4wickets,CastleAvenue
+19/05/2017,Ireland,Bangladesh,Bangladesh,wonby8wickets,TheVillage
+21/05/2017,Ireland,New Zealand,New Zealand,wonby190runs,TheVillage
+24/05/2017,Bangladesh,New Zealand,Bangladesh,wonby5wickets,CastleAvenue
+24/05/2017,England,South Africa,England,wonby72runs,Headingley
+27/05/2017,England,South Africa,England,wonby2runs,TheRoseBowl
+29/05/2017,England,South Africa,South Africa,wonby7wickets,Lord's
+01/06/2017,England,Bangladesh,England,wonby8wickets,KenningtonOval
+02/06/2017,Australia,New Zealand,Noresult,Noresult,Edgbaston
+03/06/2017,SriLanka,South Africa,South Africa,wonby96runs,KenningtonOval
+04/06/2017,India,Pakistan,India,wonby124runs,Edgbaston
+05/06/2017,Australia,Bangladesh,Noresult,Noresult,KenningtonOval
+06/06/2017,England,New Zealand,England,wonby87runs,SophiaGardens
+07/06/2017,Pakistan,South Africa,Pakistan,wonby19runs,Edgbaston
+08/06/2017,India,SriLanka,SriLanka,wonby7wickets,KenningtonOval
+09/06/2017,New Zealand,Bangladesh,Bangladesh,wonby5wickets,SophiaGardens
+09/06/2017,WestIndies,Afghanistan,Afghanistan,wonby63runs,DarenSammyNationalCricketStadium
+10/06/2017,England,Australia,England,wonby40runs,Edgbaston
+11/06/2017,India,South Africa,India,wonby8wickets,KenningtonOval
+11/06/2017,WestIndies,Afghanistan,WestIndies,wonby4wickets,DarenSammyNationalCricketStadium
+12/06/2017,SriLanka,Pakistan,Pakistan,wonby3wickets,SophiaGardens
+14/06/2017,England,Pakistan,Pakistan,wonby8wickets,SophiaGardens
+14/06/2017,WestIndies,Afghanistan,Noresult,Noresult,DarenSammyNationalCricketStadium
+15/06/2017,Bangladesh,India,India,wonby9wickets,Edgbaston
+18/06/2017,India,Pakistan,Pakistan,wonby180runs,KenningtonOval
+23/06/2017,WestIndies,India,Noresult,Noresult,Queen'sParkOval
+25/06/2017,WestIndies,India,India,wonby105runs,Queen'sParkOval
+30/06/2017,SriLanka,Zimbabwe,Zimbabwe,wonby6wickets,GalleInternationalStadium
+30/06/2017,WestIndies,India,India,wonby93runs,SirVivianRichardsStadium
+02/07/2017,SriLanka,Zimbabwe,SriLanka,wonby7wickets,GalleInternationalStadium
+02/07/2017,WestIndies,India,WestIndies,wonby11runs,SirVivianRichardsStadium
+06/07/2017,SriLanka,Zimbabwe,SriLanka,wonby8wickets,MahindaRajapakshaInternationalCricketStadium
+06/07/2017,WestIndies,India,India,wonby8wickets,SabinaPark
+08/07/2017,SriLanka,Zimbabwe,Zimbabwe,wonby4wickets,MahindaRajapakshaInternationalCricketStadium
+10/07/2017,SriLanka,Zimbabwe,Zimbabwe,wonby3wickets,MahindaRajapakshaInternationalCricketStadium
+20/08/2017,SriLanka,India,India,wonby9wickets,RangiriDambullaInternationalStadium
+24/08/2017,SriLanka,India,India,wonby3wickets,PallekeleInternationalCricketStadium
+27/08/2017,SriLanka,India,India,wonby6wickets,PallekeleInternationalCricketStadium
+31/08/2017,SriLanka,India,India,wonby168runs,RPremadasaStadium
+03/09/2017,SriLanka,India,India,wonby6wickets,RPremadasaStadium
+17/09/2017,India,Australia,India,wonby26runs,MAChidambaramStadium
+19/09/2017,England,WestIndies,England,wonby7wickets,OldTrafford
+21/09/2017,India,Australia,India,wonby50runs,EdenGardens
+21/09/2017,England,WestIndies,Noresult,Noresult,TrentBridge
+24/09/2017,India,Australia,India,wonby5wickets,HolkarCricketStadium
+24/09/2017,England,WestIndies,England,wonby124runs,CountyGround(Bristol)
+27/09/2017,England,WestIndies,England,wonby6runs,KenningtonOval
+28/09/2017,India,Australia,Australia,wonby21runs,MChinnaswamyStadium
+29/09/2017,England,WestIndies,England,wonby9wickets,TheRoseBowl
+01/10/2017,India,Australia,India,wonby7wickets,VidarbhaCricketAssociationStadium
+13/10/2017,Pakistan,SriLanka,Pakistan,wonby83runs,DubaiInternationalCricketStadium
+15/10/2017,South Africa,Bangladesh,South Africa,wonby10wickets,DiamondOval
+16/10/2017,Pakistan,SriLanka,Pakistan,wonby32runs,SheikhZayedStadium
+18/10/2017,Pakistan,SriLanka,Pakistan,wonby7wickets,SheikhZayedStadium
+18/10/2017,South Africa,Bangladesh,South Africa,wonby104runs,BolandPark
+20/10/2017,Pakistan,SriLanka,Pakistan,wonby7wickets,SharjahCricketStadium
+22/10/2017,India,New Zealand,New Zealand,wonby6wickets,WankhedeStadium
+22/10/2017,South Africa,Bangladesh,South Africa,wonby200runs,BuffaloPark
+23/10/2017,Pakistan,SriLanka,Pakistan,wonby9wickets,SharjahCricketStadium
+25/10/2017,India,New Zealand,India,wonby6wickets,MaharashtraCricketAssociationStadium
+29/10/2017,India,New Zealand,India,wonby6runs,GreenPark
+05/12/2017,Afghanistan,Ireland,Afghanistan,wonby4wickets,SharjahCricketStadium
+07/12/2017,Afghanistan,Ireland,RepublicofIreland,wonby51runs,SharjahCricketStadium
+10/12/2017,Afghanistan,Ireland,RepublicofIreland,wonby5wicketsp,SharjahCricketStadium
+10/12/2017,India,SriLanka,SriLanka,wonby7wickets,HimachalPradeshCricketAssociationStadium
+13/12/2017,India,SriLanka,India,wonby141runs,PunjabCricketAssociationISBindraStadium
+17/12/2017,India,SriLanka,India,wonby8wickets,DrYSRajasekharaReddyCricketStadium
+20/12/2017,New Zealand,WestIndies,New Zealand,wonby5wickets,CobhamOval(New)
+23/12/2017,New Zealand,WestIndies,New Zealand,wonby204runs,HagleyOval
+26/12/2017,New Zealand,WestIndies,New Zealand,wonby66runs,HagleyOval
+06/01/2018,New Zealand,Pakistan,New Zealand,wonby61runs,BasinReserve
+08/01/2018,New Zealand,Pakistan,New Zealand,wonby8wickets,SaxtonOval
+13/01/2018,New Zealand,Pakistan,New Zealand,wonby183runs,UniversityOval
+14/01/2018,Australia,England,England,wonby5wickets,MelbourneCricketGround
+15/01/2018,Bangladesh,Zimbabwe,Bangladesh,wonby8wickets,ShereBanglaNationalStadium
+16/01/2018,New Zealand,Pakistan,New Zealand,wonby5wickets,SeddonPark
+17/01/2018,SriLanka,Zimbabwe,Zimbabwe,wonby12runs,ShereBanglaNationalStadium
+18/01/2018,Australia,England,England,wonby4wickets,BrisbaneCricketGround
+18/01/2018,New Zealand,Pakistan,New Zealand,wonby15runs,BasinReserve
+19/01/2018,Bangladesh,SriLanka,Bangladesh,wonby163runs,ShereBanglaNationalStadium
+21/01/2018,Australia,England,England,wonby16runs,SydneyCricketGround
+21/01/2018,SriLanka,Zimbabwe,SriLanka,wonby5wickets,ShereBanglaNationalStadium
+23/01/2018,Bangladesh,Zimbabwe,Bangladesh,wonby91runs,ShereBanglaNationalStadium
+25/01/2018,Bangladesh,SriLanka,SriLanka,wonby10wickets,ShereBanglaNationalStadium
+26/01/2018,Australia,England,Australia,wonby3wickets,AdelaideOval
+27/01/2018,Bangladesh,SriLanka,SriLanka,wonby79runs,ShereBanglaNationalStadium
+28/01/2018,Australia,England,England,wonby12runs,PerthStadium
+01/02/2018,South Africa,India,India,wonby6wickets,Kingsmead
+04/02/2018,South Africa,India,India,wonby9wickets,SuperSportPark
+07/02/2018,South Africa,India,India,wonby124runs,Newlands
+09/02/2018,Afghanistan,Zimbabwe,Afghanistan,wonby154runs,SharjahCricketStadium
+10/02/2018,South Africa,India,South Africa,wonby5wickets,WanderersStadium
+11/02/2018,Afghanistan,Zimbabwe,Zimbabwe,wonby154runs,SharjahCricketStadium
+13/02/2018,Afghanistan,Zimbabwe,Afghanistan,wonby6wickets,SharjahCricketStadium
+13/02/2018,South Africa,India,India,wonby73runs,StGeorge'sPark
+16/02/2018,Afghanistan,Zimbabwe,Afghanistan,wonby10wickets,SharjahCricketStadium
+16/02/2018,South Africa,India,India,wonby8wickets,SuperSportPark
+19/02/2018,Afghanistan,Zimbabwe,Afghanistan,wonby146runs,SharjahCricketStadium
+25/02/2018,New Zealand,England,New Zealand,wonby3wickets,SeddonPark
+28/02/2018,New Zealand,England,England,wonby6wickets,BayOval
+03/03/2018,New Zealand,England,England,wonby4runs,SkyStadium
+04/03/2018,Afghanistan,Scotland,UnitedKingdom,wonby7wickets,BulawayoAthleticClub
+06/03/2018,New Zealand,England,New Zealand,wonby5wickets,UniversityOval
+10/03/2018,New Zealand,England,England,wonby7wickets,HagleyOval
+15/03/2018,Afghanistan,WestIndies,Afghanistan,wonby3wickets,HarareSportsClub
+20/03/2018,Afghanistan,UnitedArabEmirates,Afghanistan,wonby5wickets,OldHarariansSportsClub
+23/03/2018,Afghanistan,Ireland,Afghanistan,wonby5wickets,HarareSportsClub
+25/03/2018,Afghanistan,WestIndies,Afghanistan,wonby7wickets,HarareSportsClub
+10/06/2018,Scotland,England,Scotland,wonby6runs,GrangeCricketClub
+16/06/2018,England,Australia,England,wonby38runs,SophiaGardens
+19/06/2018,England,Australia,England,wonby242runs,TrentBridge
+21/06/2018,England,Australia,England,wonby6wickets,RiversideGround
+24/06/2018,England,Australia,England,wonby1wicket,OldTrafford
+12/07/2018,England,India,India,wonby8wickets,TrentBridge
+13/07/2018,Zimbabwe,Pakistan,Pakistan,wonby201runs,QueensSportsClub
+14/07/2018,England,India,England,wonby86runs,Lord's
+16/07/2018,Zimbabwe,Pakistan,Pakistan,wonby9wickets,QueensSportsClub
+17/07/2018,England,India,England,wonby8wickets,Headingley
+18/07/2018,Zimbabwe,Pakistan,Pakistan,wonby9wickets,QueensSportsClub
+20/07/2018,Zimbabwe,Pakistan,Pakistan,wonby244runs,QueensSportsClub
+22/07/2018,WestIndies,Bangladesh,Bangladesh,wonby48runs,ProvidenceStadium
+22/07/2018,Zimbabwe,Pakistan,Pakistan,wonby131runs,QueensSportsClub
+25/07/2018,WestIndies,Bangladesh,WestIndies,wonby3runs,ProvidenceStadium
+28/07/2018,WestIndies,Bangladesh,Bangladesh,wonby18runs,WarnerPark
+29/07/2018,SriLanka,South Africa,South Africa,wonby5wickets,RangiriDambullaInternationalStadium
+01/08/2018,Netherlands,Nepal,Netherlands,wonby55runs,VRAGround
+01/08/2018,SriLanka,South Africa,South Africa,wonby4wickets,RangiriDambullaInternationalStadium
+03/08/2018,Netherlands,Nepal,Nepal,wonby1run,VRAGround
+05/08/2018,SriLanka,South Africa,South Africa,wonby78runs,PallekeleInternationalCricketStadium
+08/08/2018,SriLanka,South Africa,SriLanka,wonby3runs,PallekeleInternationalCricketStadium
+12/08/2018,SriLanka,South Africa,SriLanka,wonby178runs,RPremadasaStadium
+27/08/2018,Ireland,Afghanistan,Afghanistan,wonby29runs,CivilServiceCricketClub
+29/08/2018,Ireland,Afghanistan,RepublicofIreland,wonby3wickets,CivilServiceCricketClub
+31/08/2018,Ireland,Afghanistan,Afghanistan,wonby8wickets,CivilServiceCricketClub
+15/09/2018,Bangladesh,SriLanka,Bangladesh,wonby137runs,DubaiInternationalCricketStadium
+16/09/2018,HongKong,Pakistan,Pakistan,wonby8wickets,DubaiInternationalCricketStadium
+17/09/2018,Afghanistan,SriLanka,Afghanistan,wonby91runs,SheikhZayedStadium
+18/09/2018,HongKong,India,India,wonby26runs,DubaiInternationalCricketStadium
+19/09/2018,India,Pakistan,India,wonby8wickets,DubaiInternationalCricketStadium
+20/09/2018,Afghanistan,Bangladesh,Afghanistan,wonby136runs,SheikhZayedStadium
+21/09/2018,Afghanistan,Pakistan,Pakistan,wonby3wickets,SheikhZayedStadium
+21/09/2018,Bangladesh,India,India,wonby7wickets,DubaiInternationalCricketStadium
+23/09/2018,Afghanistan,Bangladesh,Bangladesh,wonby3runs,SheikhZayedStadium
+23/09/2018,India,Pakistan,India,wonby9wickets,DubaiInternationalCricketStadium
+25/09/2018,Afghanistan,India,MatchTied,MatchTied,DubaiInternationalCricketStadium
+26/09/2018,Bangladesh,Pakistan,Bangladesh,wonby37runs,SheikhZayedStadium
+28/09/2018,Bangladesh,India,India,wonby3wickets,DubaiInternationalCricketStadium
+30/09/2018,South Africa,Zimbabwe,South Africa,wonby5wickets,DiamondOval
+03/10/2018,South Africa,Zimbabwe,South Africa,wonby120runs,MangaungOval
+06/10/2018,South Africa,Zimbabwe,South Africa,wonby4wickets,BolandPark
+10/10/2018,SriLanka,England,Noresult,Noresult,RangiriDambullaInternationalStadium
+13/10/2018,SriLanka,England,England,wonby31runs,RangiriDambullaInternationalStadium
+17/10/2018,SriLanka,England,England,wonby7wickets,PallekeleInternationalCricketStadium
+20/10/2018,SriLanka,England,England,wonby18runs,PallekeleInternationalCricketStadium
+21/10/2018,Bangladesh,Zimbabwe,Bangladesh,wonby28runs,ShereBanglaNationalStadium
+21/10/2018,India,WestIndies,India,wonby8wickets,BarsaparaCricketStadium
+23/10/2018,SriLanka,England,SriLanka,wonby219runs,RPremadasaStadium
+24/10/2018,Bangladesh,Zimbabwe,Bangladesh,wonby7wickets,ZahurAhmedChowdhuryStadium
+24/10/2018,India,WestIndies,MatchTied,MatchTied,DrYSRajasekharaReddyCricketStadium
+26/10/2018,Bangladesh,Zimbabwe,Bangladesh,wonby7wickets,ZahurAhmedChowdhuryStadium
+27/10/2018,India,WestIndies,WestIndies,wonby43runs,MaharashtraCricketAssociationStadium
+29/10/2018,India,WestIndies,India,wonby224runs,BrabourneStadium
+01/11/2018,India,WestIndies,India,wonby9wickets,GreenfieldInternationalStadium
+04/11/2018,Australia,South Africa,South Africa,wonby6wickets,PerthStadium
+07/11/2018,Pakistan,New Zealand,New Zealand,wonby47runs,SheikhZayedStadium
+09/11/2018,Australia,South Africa,Australia,wonby7runs,AdelaideOval
+09/11/2018,Pakistan,New Zealand,Pakistan,wonby6wickets,SheikhZayedStadium
+11/11/2018,Australia,South Africa,South Africa,wonby40runs,BelleriveOval
+09/12/2018,Bangladesh,WestIndies,Bangladesh,wonby5wickets,ShereBanglaNationalStadium
+11/12/2018,Bangladesh,WestIndies,WestIndies,wonby4wickets,ShereBanglaNationalStadium
+14/12/2018,Bangladesh,WestIndies,Bangladesh,wonby8wickets,SylhetStadium
+03/01/2019,New Zealand,SriLanka,New Zealand,wonby45runs,BayOval
+05/01/2019,New Zealand,SriLanka,New Zealand,wonby21runs,BayOval
+08/01/2019,New Zealand,SriLanka,New Zealand,wonby115runs,SaxtonOval
+12/01/2019,Australia,India,Australia,wonby34runs,SydneyCricketGround
+15/01/2019,Australia,India,India,wonby6wickets,AdelaideOval
+18/01/2019,Australia,India,India,wonby7wickets,MelbourneCricketGround
+19/01/2019,South Africa,Pakistan,Pakistan,wonby5wickets,StGeorge'sPark
+22/01/2019,South Africa,Pakistan,South Africa,wonby5wickets,Kingsmead
+23/01/2019,New Zealand,India,India,wonby8wickets,McLeanPark
+25/01/2019,South Africa,Pakistan,South Africa,wonby13runs,SuperSportPark
+26/01/2019,New Zealand,India,India,wonby90runs,BayOval
+27/01/2019,South Africa,Pakistan,Pakistan,wonby8wickets,WanderersStadium
+28/01/2019,New Zealand,India,India,wonby7wickets,BayOval
+30/01/2019,South Africa,Pakistan,South Africa,wonby7wickets,Newlands
+31/01/2019,New Zealand,India,New Zealand,wonby8wickets,SeddonPark
+03/02/2019,New Zealand,India,India,wonby35runs,SkyStadium
+13/02/2019,New Zealand,Bangladesh,New Zealand,wonby8wickets,McLeanPark
+16/02/2019,New Zealand,Bangladesh,New Zealand,wonby8wickets,HagleyOval
+20/02/2019,New Zealand,Bangladesh,New Zealand,wonby88runs,UniversityOval
+20/02/2019,WestIndies,England,England,wonby6wickets,KensingtonOval
+22/02/2019,WestIndies,England,WestIndies,wonby26runs,KensingtonOval
+25/02/2019,WestIndies,England,Noresult,Noresult,NationalCricketStadium(Grenada)
+27/02/2019,WestIndies,England,England,wonby29runs,NationalCricketStadium(Grenada)
+28/02/2019,Ireland,Afghanistan,Afghanistan,wonby5wickets,RajivGandhiInternationalCricketStadium
+01/03/2019,WestIndies,England,WestIndies,wonby7wickets,DarenSammyNationalCricketStadium
+02/03/2019,India,Australia,India,wonby6wickets,RajivGandhiInternationalStadium
+02/03/2019,Ireland,Afghanistan,Noresult,Noresult,RajivGandhiInternationalCricketStadium
+03/03/2019,South Africa,SriLanka,South Africa,wonby8wickets,WanderersStadium
+05/03/2019,India,Australia,India,wonby8runs,VidarbhaCricketAssociationStadium
+05/03/2019,Ireland,Afghanistan,RepublicofIreland,wonby4wickets,RajivGandhiInternationalCricketStadium
+06/03/2019,South Africa,SriLanka,South Africa,wonby113runs,SuperSportPark
+08/03/2019,India,Australia,Australia,wonby32runs,JSCAInternationalStadiumComplex
+08/03/2019,Ireland,Afghanistan,Afghanistan,wonby109runs,RajivGandhiInternationalCricketStadium
+10/03/2019,India,Australia,Australia,wonby4wickets,PunjabCricketAssociationISBindraStadium
+10/03/2019,Ireland,Afghanistan,RepublicofIreland,wonby5wickets,RajivGandhiInternationalCricketStadium
+10/03/2019,South Africa,SriLanka,South Africa,wonby71runs,Kingsmead
+13/03/2019,India,Australia,Australia,wonby35runs,ArunJaitleyStadium
+13/03/2019,South Africa,SriLanka,South Africa,wonby6wickets,StGeorge'sPark
+16/03/2019,South Africa,SriLanka,South Africa,wonby41runs,Newlands
+22/03/2019,Pakistan,Australia,Australia,wonby8wickets,SharjahCricketStadium
+23/03/2019,Pakistan,Australia,Australia,wonby8wickets,SharjahCricketStadium
+27/03/2019,Pakistan,Australia,Australia,wonby80runs,SheikhZayedStadium
+29/03/2019,Pakistan,Australia,Australia,wonby6runs,DubaiInternationalCricketStadium
+31/03/2019,Pakistan,Australia,Australia,wonby20runs,DubaiInternationalCricketStadium
+03/05/2019,Ireland,England,England,wonby4wickets,TheVillage
+05/05/2019,Ireland,WestIndies,WestIndies,wonby196runs,CastleAvenue
+07/05/2019,Bangladesh,WestIndies,Bangladesh,wonby8wickets,CastleAvenue
+08/05/2019,England,Pakistan,Noresult,Noresult,KenningtonOval
+08/05/2019,Scotland,Afghanistan,Matchabandoned,Matchabandoned,GrangeCricketClub
+09/05/2019,Ireland,Bangladesh,Matchabandoned,Matchabandoned,TheVillage
+10/05/2019,Scotland,Afghanistan,Afghanistan,wonby2runs,GrangeCricketClub
+11/05/2019,England,Pakistan,England,wonby12runs,TheRoseBowl
+11/05/2019,Ireland,WestIndies,WestIndies,wonby5wickets,TheVillage
+13/05/2019,Bangladesh,WestIndies,Bangladesh,wonby5wickets,TheVillage
+14/05/2019,England,Pakistan,England,wonby6wickets,CountyGround(Bristol)
+15/05/2019,Ireland,Bangladesh,Bangladesh,wonby6wickets,CastleAvenue
+17/05/2019,Bangladesh,WestIndies,Bangladesh,wonby5wickets,TheVillage
+17/05/2019,England,Pakistan,England,wonby3wickets,TrentBridge
+18/05/2019,Scotland,SriLanka,Matchabandoned,Matchabandoned,GrangeCricketClub
+19/05/2019,England,Pakistan,England,wonby54runs,Headingley
+19/05/2019,Ireland,Afghanistan,Ireland,wonby72runs,CivilServiceCricketClub
+21/05/2019,Ireland,Afghanistan,Afghanistan,wonby126runs,CivilServiceCricketClub
+21/05/2019,Scotland,SriLanka,SriLanka,wonby35runs,GrangeCricketClub
+30/05/2019,England,South Africa,England,wonby104runs,KenningtonOval
+31/05/2019,Pakistan,WestIndies,WestIndies,wonby7wickets,TrentBridge
+01/06/2019,Afghanistan,Australia,Australia,wonby7wickets,CountyGround(Bristol)
+01/06/2019,New Zealand,SriLanka,New Zealand,wonby10wickets,SophiaGardens
+02/06/2019,Bangladesh,South Africa,Bangladesh,wonby21runs,KenningtonOval
+03/06/2019,England,Pakistan,Pakistan,wonby14runs,TrentBridge
+04/06/2019,Afghanistan,SriLanka,SriLanka,wonby34runs,SophiaGardens
+05/06/2019,Bangladesh,New Zealand,New Zealand,wonby2wickets,KenningtonOval
+05/06/2019,India,South Africa,India,wonby6wickets,TheRoseBowl
+06/06/2019,Australia,WestIndies,Australia,wonby15runs,TrentBridge
+07/06/2019,Pakistan,SriLanka,Matchabandoned,Matchabandoned,CountyGround(Bristol)
+08/06/2019,Afghanistan,New Zealand,New Zealand,wonby7wickets,TheCooperAssociatesCountyGround
+08/06/2019,England,Bangladesh,England,wonby106runs,SophiaGardens
+09/06/2019,Australia,India,India,wonby36runs,KenningtonOval
+10/06/2019,South Africa,WestIndies,Noresult,Noresult,TheRoseBowl
+11/06/2019,Bangladesh,SriLanka,Matchabandoned,Matchabandoned,CountyGround(Bristol)
+12/06/2019,Australia,Pakistan,Australia,wonby41runs,TheCooperAssociatesCountyGround
+13/06/2019,India,New Zealand,Matchabandoned,Matchabandoned,TrentBridge
+14/06/2019,England,WestIndies,England,wonby8wickets,TheRoseBowl
+15/06/2019,Afghanistan,South Africa,South Africa,wonby9wickets,SophiaGardens
+15/06/2019,Australia,SriLanka,Australia,wonby87runs,KenningtonOval
+16/06/2019,India,Pakistan,India,wonby89runs,OldTrafford
+17/06/2019,Bangladesh,WestIndies,Bangladesh,wonby7wickets,TheCooperAssociatesCountyGround
+18/06/2019,England,Afghanistan,England,wonby150runs,OldTrafford
+19/06/2019,New Zealand,South Africa,New Zealand,wonby4wickets,Edgbaston
+19/06/2019,Netherlands,Zimbabwe,Netherlands,wonby7wickets,SportsparkHetSchootsveld
+20/06/2019,Australia,Bangladesh,Australia,wonby48runs,TrentBridge
+21/06/2019,England,SriLanka,SriLanka,wonby20runs,Headingley
+21/06/2019,Netherlands,Zimbabwe,Netherlands,wonby3wickets,SportsparkHetSchootsveld
+22/06/2019,Afghanistan,India,India,wonby11runs,TheRoseBowl
+22/06/2019,New Zealand,WestIndies,New Zealand,wonby5runs,OldTrafford
+23/06/2019,Pakistan,South Africa,Pakistan,wonby49runs,Lord's
+24/06/2019,Afghanistan,Bangladesh,Bangladesh,wonby62runs,TheRoseBowl
+25/06/2019,England,Australia,Australia,wonby64runs,Lord's
+26/06/2019,New Zealand,Pakistan,Pakistan,wonby6wickets,Edgbaston
+27/06/2019,India,WestIndies,India,wonby125runs,OldTrafford
+28/06/2019,South Africa,SriLanka,South Africa,wonby9wickets,RiversideGround
+29/06/2019,Afghanistan,Pakistan,Pakistan,wonby3wickets,Headingley
+29/06/2019,Australia,New Zealand,Australia,wonby86runs,Lord's
+30/06/2019,England,India,England,wonby31runs,Edgbaston
+01/07/2019,SriLanka,WestIndies,SriLanka,wonby23runs,RiversideGround
+02/07/2019,Bangladesh,India,India,wonby28runs,Edgbaston
+03/07/2019,England,New Zealand,England,wonby119runs,RiversideGround
+04/07/2019,Afghanistan,WestIndies,WestIndies,wonby23runs,Headingley
+06/07/2019,Australia,South Africa,South Africa,wonby10runs,OldTrafford
+06/07/2019,India,SriLanka,India,wonby7wickets,Headingley
+09/07/2019,India,New Zealand,New Zealand,wonby18runs,OldTrafford
+11/07/2019,England,Australia,England,wonby8wickets,Edgbaston
+14/07/2019,England,New Zealand,England,wononboundarycountafterscoresandsuperoverweretied,Lord's
+26/07/2019,SriLanka,Bangladesh,SriLanka,wonby91runs,RPremadasaStadium
+28/07/2019,SriLanka,Bangladesh,SriLanka,wonby7wickets,RPremadasaStadium
+31/07/2019,SriLanka,Bangladesh,SriLanka,wonby122runs,RPremadasaStadium
+08/08/2019,WestIndies,India,Noresult,Noresult,ProvidenceStadium
+11/08/2019,WestIndies,India,India,wonby59runs,Queen'sParkOval
+14/08/2019,WestIndies,India,India,wonby6wickets,Queen'sParkOval
+27/09/2019,Pakistan,SriLanka,Matchabandoned,Matchabandoned,NationalStadium(Karachi)
+30/09/2019,Pakistan,SriLanka,Pakistan,wonby67runs,NationalStadium(Karachi)
+02/10/2019,Pakistan,SriLanka,Pakistan,wonby5wickets,NationalStadium(Karachi)
+06/11/2019,Afghanistan,WestIndies,WestIndies,wonby7wickets,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+09/11/2019,Afghanistan,WestIndies,WestIndies,wonby47runs,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+11/11/2019,Afghanistan,WestIndies,WestIndies,wonby5wickets,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+15/12/2019,India,WestIndies,WestIndies,wonby8wickets,MAChidambaramStadium
+18/12/2019,India,WestIndies,India,wonby107runs,DrYSRajasekharaReddyCricketStadium
+22/12/2019,India,WestIndies,India,wonby4wickets,BarabatiStadium
+17/01/2020,India,Australia,India,wonby36runs,SaurashtraCricketAssociationStadium
+19/01/2020,India,Australia,India,wonby7wickets,MChinnaswamyStadium
+04/02/2020,South Africa,England,South Africa,wonby7wickets,Newlands
+05/02/2020,New Zealand,India,New Zealand,wonby4wickets,SeddonPark
+07/02/2020,South Africa,England,Noresult,Noresult,Kingsmead
+08/02/2020,New Zealand,India,New Zealand,wonby22runs,EdenPark
+09/02/2020,South Africa,England,England,wonby2wickets,WanderersStadium
+11/02/2020,New Zealand,India,New Zealand,wonby5wickets,BayOval
+22/02/2020,SriLanka,WestIndies,SriLanka,wonby1wicket,SinhaleseSportsClubGround
+26/02/2020,SriLanka,WestIndies,SriLanka,wonby161runs,MahindaRajapakshaInternationalCricketStadium
+29/02/2020,South Africa,Australia,South Africa,wonby74runs,BolandPark
+01/03/2020,Bangladesh,Zimbabwe,Bangladesh,wonby169runs,SylhetStadium
+01/03/2020,SriLanka,WestIndies,SriLanka,wonby6runs,PallekeleInternationalCricketStadium
+03/03/2020,Bangladesh,Zimbabwe,Bangladesh,wonby4runs,SylhetStadium
+04/03/2020,South Africa,Australia,South Africa,wonby6wickets,MangaungOval
+06/03/2020,Bangladesh,Zimbabwe,Bangladesh,wonby123runs,SylhetStadium
+07/03/2020,South Africa,Australia,South Africa,wonby6wickets,SenwesPark
+12/03/2020,India,South Africa,Matchabandoned,Matchabandoned,HimachalPradeshCricketAssociationStadium
+13/03/2020,Australia,New Zealand,Australia,wonby71runs,SydneyCricketGround
+15/03/2020,India,South Africa,Matchabandoned,Matchabandoned,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+18/03/2020,India,South Africa,Matchabandoned,Matchabandoned,EdenGardens
+30/07/2020,England,Ireland,England,wonby6wickets,TheRoseBowl
+01/08/2020,England,Ireland,England,wonby4wickets,TheRoseBowl
+04/08/2020,England,Ireland,RepublicofIreland,wonby7wickets,TheRoseBowl
+11/09/2020,England,Australia,Australia,wonby19runs,OldTrafford
+13/09/2020,England,Australia,England,wonby24runs,OldTrafford
+16/09/2020,England,Australia,Australia,wonby3wickets,OldTrafford
+30/10/2020,Pakistan,Zimbabwe,Pakistan,wonby26runs,RawalpindiCricketStadium
+01/11/2020,Pakistan,Zimbabwe,Pakistan,wonby6wickets,RawalpindiCricketStadium
+27/11/2020,Australia,India,Australia,wonby66runs,SydneyCricketGround
+29/11/2020,Australia,India,Australia,wonby51runs,SydneyCricketGround
+02/12/2020,Australia,India,India,wonby13runs,ManukaOval
+20/01/2021,Bangladesh,WestIndies,Bangladesh,wonby6wickets,ShereBanglaNationalStadium
+21/01/2021,Afghanistan,Ireland,Afghanistan,wonby16runs,SheikhZayedStadium
+22/01/2021,Bangladesh,WestIndies,Bangladesh,wonby7wickets,ShereBanglaNationalStadium
+24/01/2021,Afghanistan,Ireland,Afghanistan,wonby7wickets,SheikhZayedStadium
+26/01/2021,Afghanistan,Ireland,Afghanistan,wonby36runs,SheikhZayedStadium
+10/03/2021,WestIndies,SriLanka,WestIndies,wonby8wickets,SirVivianRichardsStadium
+12/03/2021,WestIndies,SriLanka,WestIndies,wonby5wickets,SirVivianRichardsStadium
+14/03/2021,WestIndies,SriLanka,WestIndies,wonby5wickets,SirVivianRichardsStadium
+20/03/2021,New Zealand,Bangladesh,New Zealand,wonby8wickets,UniversityOval
+23/03/2021,India,England,India,wonby66runs,MaharashtraCricketAssociationStadium
+23/03/2021,New Zealand,Bangladesh,New Zealand,wonby5wickets,HagleyOval
+26/03/2021,India,England,England,wonby6wickets,MaharashtraCricketAssociationStadium
+26/03/2021,New Zealand,Bangladesh,New Zealand,wonby164runs,BasinReserve
+28/03/2021,India,England,India,wonby7runs,MaharashtraCricketAssociationStadium
+02/04/2021,South Africa,Pakistan,Pakistan,wonby3wickets,SuperSportPark
+04/04/2021,South Africa,Pakistan,South Africa,wonby17runs,WanderersStadium
+07/04/2021,South Africa,Pakistan,Pakistan,wonby28runs,SuperSportPark
+19/05/2021,Netherlands,Scotland,Netherlands,wonby14runs,Hazelaarweg
+20/05/2021,Netherlands,Scotland,Scotland,wonby6wickets,Hazelaarweg
+23/05/2021,Bangladesh,SriLanka,Bangladesh,wonby33runs,ShereBanglaNationalStadium
+25/05/2021,Bangladesh,SriLanka,Bangladesh,wonby103runs,ShereBanglaNationalStadium
+28/05/2021,Bangladesh,SriLanka,SriLanka,wonby97runs,ShereBanglaNationalStadium
+02/06/2021,Netherlands,Ireland,Netherlands,wonby1run,SportsparkMaarschalkerweerd
+04/06/2021,Netherlands,Ireland,RepublicofIreland,wonby8wickets,SportsparkMaarschalkerweerd
+07/06/2021,Netherlands,Ireland,Netherlands,wonby4wickets,SportsparkMaarschalkerweerd
+29/06/2021,England,SriLanka,England,wonby5wickets,RiversideGround
+01/07/2021,England,SriLanka,England,wonby8wickets,KenningtonOval
+04/07/2021,England,SriLanka,Noresult,Noresult,CountyGround(Bristol)
+08/07/2021,England,Pakistan,England,wonby9wickets,SophiaGardens
+10/07/2021,England,Pakistan,England,wonby52runs,Lord's
+11/07/2021,Ireland,South Africa,Noresult,Noresult,TheVillage
+13/07/2021,England,Pakistan,England,wonby3wickets,Edgbaston
+13/07/2021,Ireland,South Africa,Ireland,wonby43runs,TheVillage
+16/07/2021,Ireland,South Africa,South Africa,wonby70runs,TheVillage
+16/07/2021,Zimbabwe,Bangladesh,Bangladesh,wonby155runs,HarareSportsClub
+18/07/2021,SriLanka,India,India,wonby7wickets,RPremadasaStadium
+18/07/2021,Zimbabwe,Bangladesh,Bangladesh,wonby3wickets,HarareSportsClub
+20/07/2021,SriLanka,India,India,wonby3wickets,RPremadasaStadium
+20/07/2021,WestIndies,Australia,Australia,wonby133runs,KensingtonOval
+20/07/2021,Zimbabwe,Bangladesh,Bangladesh,wonby5wickets,HarareSportsClub
+23/07/2021,SriLanka,India,SriLanka,wonby3wickets,RPremadasaStadium
+24/07/2021,WestIndies,Australia,WestIndies,wonby4wickets,KensingtonOval
+26/07/2021,WestIndies,Australia,Australia,wonby6wickets,KensingtonOval
+02/09/2021,SriLanka,South Africa,SriLanka,wonby14runs,RPremadasaStadium
+04/09/2021,SriLanka,South Africa,South Africa,wonby67runs,RPremadasaStadium
+07/09/2021,SriLanka,South Africa,SriLanka,wonby78runs,RPremadasaStadium
+17/09/2021,Pakistan,New Zealand,Matchabandoned,Matchabandoned,RawalpindiCricketStadium
+26/11/2021,South Africa,Netherlands,Noresult,Noresult,SuperSportPark
+16/01/2022,SriLanka,Zimbabwe,SriLanka,wonby5wickets,PallekeleInternationalCricketStadium
+18/01/2022,SriLanka,Zimbabwe,Zimbabwe,wonby22runs,PallekeleInternationalCricketStadium
+19/01/2022,South Africa,India,South Africa,wonby31runs,BolandPark
+21/01/2022,South Africa,India,South Africa,wonby7wickets,BolandPark
+21/01/2022,Afghanistan,Netherlands,Afghanistan,wonby36runs,WestEndParkInternationalCricketStadium
+21/01/2022,SriLanka,Zimbabwe,SriLanka,wonby184runs,PallekeleInternationalCricketStadium
+23/01/2022,South Africa,India,South Africa,wonby4runs,Newlands
+23/01/2022,Afghanistan,Netherlands,Afghanistan,wonby48runs,WestEndParkInternationalCricketStadium
+25/01/2022,Afghanistan,Netherlands,Afghanistan,wonby75runs,WestEndParkInternationalCricketStadium
+06/02/2022,India,WestIndies,India,wonby6wickets,NarendraModiStadium
+09/02/2022,India,WestIndies,India,wonby44runs,NarendraModiStadium
+11/02/2022,India,WestIndies,India,wonby96runs,NarendraModiStadium
+23/02/2022,Bangladesh,Afghanistan,Bangladesh,wonby4wickets,ZahurAhmedChowdhuryStadium
+25/02/2022,Bangladesh,Afghanistan,Bangladesh,wonby88runs,ZahurAhmedChowdhuryStadium
+28/02/2022,Bangladesh,Afghanistan,Afghanistan,wonby7wickets,ZahurAhmedChowdhuryStadium
+18/03/2022,South Africa,Bangladesh,Bangladesh,wonby38runs,SuperSportPark
+20/03/2022,South Africa,Bangladesh,South Africa,wonby7wickets,WanderersStadium
+23/03/2022,South Africa,Bangladesh,Bangladesh,wonby9wickets,SuperSportPark
+29/03/2022,Pakistan,Australia,Australia,wonby88runs,GaddafiStadium
+29/03/2022,New Zealand,Netherlands,New Zealand,wonby7wickets,BayOval
+31/03/2022,Pakistan,Australia,Pakistan,wonby6wickets,GaddafiStadium
+02/04/2022,Pakistan,Australia,Pakistan,wonby9wickets,GaddafiStadium
+03/04/2022,New Zealand,Netherlands,New Zealand,wonby118runs,SeddonPark
+04/04/2022,New Zealand,Netherlands,New Zealand,wonby115runs,SeddonPark
+31/05/2022,Netherlands,WestIndies,WestIndies,wonby7wickets,VRAGround
+02/06/2022,Netherlands,WestIndies,WestIndies,wonby5wickets,VRAGround
+04/06/2022,Zimbabwe,Afghanistan,Afghanistan,wonby60runs,HarareSportsClub
+06/06/2022,Zimbabwe,Afghanistan,Afghanistan,wonby8wickets,HarareSportsClub
+08/06/2022,Pakistan,WestIndies,Pakistan,wonby5wickets,MultanCricketStadium
+09/06/2022,Zimbabwe,Afghanistan,Afghanistan,wonby4wickets,HarareSportsClub
+10/06/2022,Pakistan,WestIndies,Pakistan,wonby120runs,MultanCricketStadium
+12/06/2022,Pakistan,WestIndies,Pakistan,wonby53runs,MultanCricketStadium
+14/06/2022,SriLanka,Australia,Australia,wonby2wickets,PallekeleInternationalCricketStadium
+16/06/2022,SriLanka,Australia,SriLanka,wonby26runs,PallekeleInternationalCricketStadium
+17/06/2022,Netherlands,England,England,wonby232runs,VRAGround
+19/06/2022,Netherlands,England,England,wonby6wickets,VRAGround
+19/06/2022,SriLanka,Australia,SriLanka,wonby6wickets,RPremadasaStadium
+21/06/2022,SriLanka,Australia,SriLanka,wonby4runs,RPremadasaStadium
+22/06/2022,Netherlands,England,England,wonby8wickets,VRAGround
+24/06/2022,SriLanka,Australia,Australia,wonby4wickets,RPremadasaStadium
+10/07/2022,Ireland,New Zealand,New Zealand,wonby1wicket,TheVillage
+10/07/2022,WestIndies,Bangladesh,Bangladesh,wonby6wickets,ProvidenceStadium
+12/07/2022,England,India,India,wonby10wickets,KenningtonOval
+12/07/2022,Ireland,New Zealand,New Zealand,wonby3wickets,TheVillage
+13/07/2022,WestIndies,Bangladesh,Bangladesh,wonby9wickets,ProvidenceStadium
+14/07/2022,England,India,England,wonby100runs,Lord's
+15/07/2022,Ireland,New Zealand,New Zealand,wonby1run,TheVillage
+16/07/2022,WestIndies,Bangladesh,Bangladesh,wonby4wickets,ProvidenceStadium
+17/07/2022,England,India,India,wonby5wickets,OldTrafford
+19/07/2022,England,South Africa,South Africa,wonby62runs,RiversideGround
+22/07/2022,England,South Africa,England,wonby118runs,OldTrafford
+22/07/2022,WestIndies,India,India,wonby3runs,Queen'sParkOval
+24/07/2022,England,South Africa,Noresult,Noresult,Headingley
+24/07/2022,WestIndies,India,India,wonby2wickets,Queen'sParkOval
+27/07/2022,WestIndies,India,India,wonby119runs,Queen'sParkOval
+31/07/2022,Scotland,New Zealand,New Zealand,wonby7wickets,GrangeCricketClub
+05/08/2022,Zimbabwe,Bangladesh,Zimbabwe,wonby5wickets,HarareSportsClub
+07/08/2022,Zimbabwe,Bangladesh,Zimbabwe,wonby5wickets,HarareSportsClub
+10/08/2022,Zimbabwe,Bangladesh,Bangladesh,wonby105runs,HarareSportsClub
+16/08/2022,Netherlands,Pakistan,Pakistan,wonby16runs,Hazelaarweg
+17/08/2022,WestIndies,New Zealand,WestIndies,wonby5wickets,KensingtonOval
+18/08/2022,Netherlands,Pakistan,Pakistan,wonby7wickets,Hazelaarweg
+18/08/2022,Zimbabwe,India,India,wonby10wickets,HarareSportsClub
+19/08/2022,WestIndies,New Zealand,New Zealand,wonby50runs,KensingtonOval
+20/08/2022,Zimbabwe,India,India,wonby5wickets,HarareSportsClub
+21/08/2022,Netherlands,Pakistan,Pakistan,wonby9runs,Hazelaarweg
+21/08/2022,WestIndies,New Zealand,New Zealand,wonby5wickets,KensingtonOval
+22/08/2022,Zimbabwe,India,India,wonby13runs,HarareSportsClub
+28/08/2022,Australia,Zimbabwe,Australia,wonby5wickets,RiverwayStadium
+31/08/2022,Australia,Zimbabwe,Australia,wonby8wickets,RiverwayStadium
+03/09/2022,Australia,Zimbabwe,Zimbabwe,wonby3wickets,RiverwayStadium
+06/09/2022,Australia,New Zealand,Australia,wonby2wickets,Cazaly'sStadium
+08/09/2022,Australia,New Zealand,Australia,wonby113runs,Cazaly'sStadium
+11/09/2022,Australia,New Zealand,Australia,wonby25runs,Cazaly'sStadium
+06/10/2022,India,South Africa,South Africa,wonby9runs,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+09/10/2022,India,South Africa,India,wonby7wickets,JSCAInternationalStadiumComplex
+11/10/2022,India,South Africa,India,wonby7wickets,ArunJaitleyStadium
+17/11/2022,Australia,England,Australia,wonby6wickets,AdelaideOval
+19/11/2022,Australia,England,Australia,wonby72runs,SydneyCricketGround
+22/11/2022,Australia,England,Australia,wonby221runs,MelbourneCricketGround
+25/11/2022,New Zealand,India,New Zealand,wonby7wickets,EdenPark
+25/11/2022,SriLanka,Afghanistan,Afghanistan,wonby60runs,PallekeleInternationalCricketStadium
+27/11/2022,New Zealand,India,Noresult,Noresult,SeddonPark
+27/11/2022,SriLanka,Afghanistan,Noresult,Noresult,PallekeleInternationalCricketStadium
+30/11/2022,New Zealand,India,Noresult,Noresult,HagleyOval
+30/11/2022,SriLanka,Afghanistan,SriLanka,wonby4wickets,PallekeleInternationalCricketStadium
+04/12/2022,Bangladesh,India,Bangladesh,wonby1wicket,ShereBanglaNationalStadium
+07/12/2022,Bangladesh,India,Bangladesh,wonby5runs,ShereBanglaNationalStadium
+10/12/2022,Bangladesh,India,India,wonby227runs,ZahurAhmedChowdhuryStadium
+09/01/2023,Pakistan,New Zealand,Pakistan,wonby6wickets,NationalStadium(Karachi)
+10/01/2023,India,SriLanka,India,wonby67runs,BarsaparaCricketStadium
+11/01/2023,Pakistan,New Zealand,New Zealand,wonby79runs,NationalStadium(Karachi)
+12/01/2023,India,SriLanka,India,wonby4wickets,EdenGardens
+15/01/2023,India,SriLanka,India,wonby317runs,GreenfieldInternationalStadium
+18/01/2023,India,New Zealand,India,wonby12runs,RajivGandhiInternationalStadium
+21/01/2023,India,New Zealand,India,wonby8wickets,ShaheedVeerNarayanSingInternationalStadium
+24/01/2023,India,New Zealand,India,wonby90runs,HolkarCricketStadium
+27/01/2023,South Africa,England,South Africa,wonby27runs,MangaungOval
+29/01/2023,South Africa,England,South Africa,wonby5wickets,MangaungOval
+01/02/2023,South Africa,England,England,wonby59runs,DiamondOval
+01/03/2023,Bangladesh,England,England,wonby3wickets,ShereBanglaNationalStadium
+03/03/2023,Bangladesh,England,England,wonby132runs,ShereBanglaNationalStadium
+06/03/2023,Bangladesh,England,Bangladesh,wonby50runs,ZahurAhmedChowdhuryStadium
+16/03/2023,South Africa,WestIndies,Matchabandoned,Matchabandoned,BuffaloPark
+17/03/2023,India,Australia,India,wonby5wickets,WankhedeStadium
+18/03/2023,Bangladesh,Ireland,Bangladesh,wonby183runs,SylhetStadium
+18/03/2023,South Africa,WestIndies,WestIndies,wonby48runs,BuffaloPark
+19/03/2023,India,Australia,Australia,wonby10wickets,DrYSRajasekharaReddyCricketStadium
+20/03/2023,Bangladesh,Ireland,Noresult,Noresult,SylhetStadium
+21/03/2023,South Africa,WestIndies,South Africa,wonby4wickets,SenwesPark
+21/03/2023,Zimbabwe,Netherlands,Netherlands,wonby3wickets,HarareSportsClub
+22/03/2023,India,Australia,Australia,wonby21runs,MAChidambaramStadium
+23/03/2023,Bangladesh,Ireland,Bangladesh,wonby10wickets,SylhetStadium
+23/03/2023,Zimbabwe,Netherlands,Zimbabwe,wonby1run,HarareSportsClub
+25/03/2023,New Zealand,SriLanka,New Zealand,wonby198runs,EdenPark
+25/03/2023,Zimbabwe,Netherlands,Zimbabwe,wonby7wickets,HarareSportsClub
+28/03/2023,New Zealand,SriLanka,Matchabandoned,Matchabandoned,HagleyOval
+31/03/2023,South Africa,Netherlands,South Africa,wonby8wickets,WillowmoorePark
+31/03/2023,New Zealand,SriLanka,New Zealand,wonby6wickets,SeddonPark
+27/04/2023,Pakistan,New Zealand,Pakistan,wonby5wickets,RawalpindiCricketStadium
+29/04/2023,Pakistan,New Zealand,Pakistan,wonby7wickets,RawalpindiCricketStadium
+03/05/2023,Pakistan,New Zealand,Pakistan,wonby26runs,NationalStadium(Karachi)
+05/05/2023,Pakistan,New Zealand,Pakistan,wonby102runs,NationalStadium(Karachi)
+07/05/2023,Pakistan,New Zealand,New Zealand,wonby47runs,NationalStadium(Karachi)
+09/05/2023,Ireland,Bangladesh,Noresult,Noresult,CountyGround(Chelmsford)
+12/05/2023,Ireland,Bangladesh,Bangladesh,wonby3wickets,CountyGround(Chelmsford)
+14/05/2023,Ireland,Bangladesh,Bangladesh,wonby5runs,CountyGround(Chelmsford)
+02/06/2023,SriLanka,Afghanistan,Afghanistan,wonby6wickets,MahindaRajapakshaInternationalCricketStadium
+04/06/2023,SriLanka,Afghanistan,SriLanka,wonby132runs,MahindaRajapakshaInternationalCricketStadium
+07/06/2023,SriLanka,Afghanistan,SriLanka,wonby9wickets,MahindaRajapakshaInternationalCricketStadium
+19/06/2023,SriLanka,UnitedArabEmirates,SriLanka,wonby175runs,QueensSportsClub
+23/06/2023,Oman,SriLanka,SriLanka,wonby10wickets,QueensSportsClub
+24/06/2023,Nepal,Netherlands,Netherlands,wonby7wickets,TakashingaSportsClub
+25/06/2023,Ireland,SriLanka,SriLanka,wonby133runs,QueensSportsClub
+27/06/2023,Scotland,SriLanka,SriLanka,wonby82runs,QueensSportsClub
+30/06/2023,Netherlands,SriLanka,SriLanka,wonby21runs,QueensSportsClub
+03/07/2023,Netherlands,Oman,Netherlands,wonby74runs,HarareSportsClub
+05/07/2023,Bangladesh,Afghanistan,Afghanistan,wonby17runs,ZahurAhmedChowdhuryStadium
+06/07/2023,Netherlands,Scotland,Netherlands,wonby4wickets,QueensSportsClub
+07/07/2023,SriLanka,WestIndies,SriLanka,wonby8wickets,HarareSportsClub
+08/07/2023,Bangladesh,Afghanistan,Afghanistan,wonby142runs,ZahurAhmedChowdhuryStadium
+09/07/2023,Netherlands,SriLanka,SriLanka,wonby128runs,HarareSportsClub
+11/07/2023,Bangladesh,Afghanistan,Bangladesh,wonby7wickets,ZahurAhmedChowdhuryStadium
+27/07/2023,WestIndies,India,India,wonby5wickets,KensingtonOval
+29/07/2023,WestIndies,India,WestIndies,wonby6wickets,KensingtonOval
+01/08/2023,WestIndies,India,India,wonby200runs,BrianLaraStadium
+22/08/2023,Afghanistan,Pakistan,Pakistan,wonby142runs,MahindaRajapakshaInternationalCricketStadium
+24/08/2023,Afghanistan,Pakistan,Pakistan,wonby1wicket,MahindaRajapakshaInternationalCricketStadium
+26/08/2023,Afghanistan,Pakistan,Pakistan,wonby59runs,RPremadasaStadium
+30/08/2023,Pakistan,Nepal,Pakistan,wonby238runs,MultanCricketStadium
+31/08/2023,SriLanka,Bangladesh,SriLanka,wonby5wickets,PallekeleInternationalCricketStadium
+02/09/2023,India,Pakistan,Noresult,Noresult,PallekeleInternationalCricketStadium
+03/09/2023,Afghanistan,Bangladesh,Bangladesh,wonby89runs,GaddafiStadium
+04/09/2023,India,Nepal,India,wonby10wickets,PallekeleInternationalCricketStadium
+05/09/2023,SriLanka,Afghanistan,SriLanka,wonby2runs,GaddafiStadium
+06/09/2023,Pakistan,Bangladesh,Pakistan,wonby7wickets,GaddafiStadium
+07/09/2023,South Africa,Australia,Australia, wonby3wickets,MangaungOval
+08/09/2023,England,New Zealand,New Zealand,wonby8wickets,SophiaGardens
+09/09/2023,South Africa,Australia,Australia, wonby123runs,MangaungOval
+09/09/2023,SriLanka,Bangladesh,SriLanka,wonby21runs,RPremadasaStadium
+10/09/2023,India,Pakistan,India,wonby228runs,RPremadasaStadium
+10/09/2023,England,New Zealand,England,wonby79runs,TheRoseBowl
+12/09/2023,South Africa,Australia,South Africa,wonby111runs,SenwesPark
+12/09/2023,SriLanka,India,India,wonby41runs,RPremadasaStadium
+13/09/2023,England,New Zealand,England,wonby181runs,KenningtonOval
+14/09/2023,SriLanka,Pakistan,SriLanka,wonby2wickets,RPremadasaStadium
+15/09/2023,Bangladesh,India,Bangladesh,wonby6runs,RPremadasaStadium
+15/09/2023,South Africa,Australia,South Africa,wonby164runs,SuperSportPark
+15/09/2023,England,New Zealand,England,wonby100runs,"Lord's	"
+17/09/2023,South Africa,Australia,South Africa,wonby122runs,WanderersStadium
+17/09/2023,SriLanka,India,India,wonby10wickets,RPremadasaStadium
+20/09/2023,England,Ireland,Matchabandoned,Matchabandoned,Headingley
+21/09/2023,Bangladesh,New Zealand,Noresult,Noresult,ShereBanglaNationalStadium
+22/09/2023,India,Australia,India,wonby5wickets,PunjabCricketAssociationISBindraStadium
+23/09/2023,Bangladesh,New Zealand,New Zealand,wonby86runs,ShereBanglaNationalStadium
+23/09/2023,England,Ireland,England,wonby48runs,TrentBridge
+24/09/2023,India,Australia,India,wonby99runs,HolkarCricketStadium
+26/09/2023,Bangladesh,New Zealand,New Zealand,wonby7wickets,ShereBanglaNationalStadium
+26/09/2023,England,Ireland,Noresult,Noresult,CountyGround(Bristol)
+27/09/2023,India,Australia,Australia,wonby56runs,SaurashtraCricketAssociationStadium
+05/10/2023,England,New Zealand,New Zealand,wonby9wickets,NarendraModiStadium
+06/10/2023,Netherlands,Pakistan,Pakistan,wonby81runs,RajivGandhiInternationalStadium
+07/10/2023,South Africa,SriLanka,South Africa,wonby102runs,ArunJaitleyStadium
+07/10/2023,Afghanistan,Bangladesh,Bangladesh,wonby6wickets,HimachalPradeshCricketAssociationStadium
+08/10/2023,India,Australia,India,wonby6wickets,MAChidambaramStadium
+09/10/2023,Netherlands,New Zealand,New Zealand,New Zealand,RajivGandhiInternationalStadium
+10/10/2023,Bangladesh,England,England,wonby137runs,HimachalPradeshCricketAssociationStadium
+10/10/2023,Pakistan,SriLanka,Pakistan,wonby6wickets,RajivGandhiInternationalStadium
+11/10/2023,India,Afghanistan,India,wonby8wickets,ArunJaitleyStadium
+12/10/2023,Australia,South Africa,South Africa,wonby134runs,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+13/10/2023,Bangladesh,New Zealand,New Zealand,wonby8wickets,MAChidambaramStadium
+14/10/2023,India,Pakistan,India,wonby7wickets,NarendraModiStadium
+15/10/2023,Afghanistan,England,Afghanistan,wonby69runs,ArunJaitleyStadium
+16/10/2023,Australia,SriLanka,Australia,wonby5wickets,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+17/10/2023,Netherlands,South Africa,Netherlands,wonby38runs,HimachalPradeshCricketAssociationStadium
+18/10/2023,Afghanistan,New Zealand,New Zealand,wonby149runs,MAChidambaramStadium
+19/10/2023,India,Bangladesh,India,wonby7wickets,MaharashtraCricketAssociationStadium
+20/10/2023,Australia,Pakistan,Australia, wonby62runs,MChinnaswamyStadium
+21/10/2023,England,South Africa,South Africa,wonby229runs,WankhedeStadium
+21/10/2023,Netherlands,SriLanka,SriLanka,wonby5wickets,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+22/10/2023,India,New Zealand,India,wonby4wickets,HimachalPradeshCricketAssociationStadium
+23/10/2023,Afghanistan,Pakistan,Afghanistan, wonby8wickets,MAChidambaramStadium
+24/10/2023,Bangladesh,South Africa,South Africa,wonby149runs,WankhedeStadium
+25/10/2023,Australia,Netherlands,Australia,wonby309runs,ArunJaitleyStadium
+26/10/2023,England,SriLanka,SriLanka,wonby8wickets,MChinnaswamyStadium
+27/10/2023,Pakistan,South Africa,South Africa,wonby1wicket,MAChidambaramStadium
+28/10/2023,Bangladesh,Netherlands,Netherlands,wonby87runs,"EdenGardens	"
+28/10/2023,Australia,New Zealand,Australia,wonby5runs,HimachalPradeshCricketAssociationStadium
+29/10/2023,India,England,India,wonby100runs,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+30/10/2023,Afghanistan,SriLanka,Afghanistan,wonby7wickets,MaharashtraCricketAssociationStadium
+31/10/2023,Bangladesh,Pakistan,Pakistan,wonby7wickets,EdenGardens
+01/11/2023,New Zealand,South Africa,South Africa,wonby190runs,MaharashtraCricketAssociationStadium
+02/11/2023,India,SriLanka,India,wonby302runs,WankhedeStadium
+03/11/2023,Afghanistan,Netherlands,Afghanistan,wonby7wickets,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium
+04/11/2023,Australia,England,Australia,wonby33runs,NarendraModiStadium
+04/11/2023,New Zealand,Pakistan,Pakistan,wonby21runs,MChinnaswamyStadium
+05/11/2023,India,South Africa,India,wonby243runs,EdenGardens
+06/11/2023,Bangladesh,SriLanka,Bangladesh,wonby3wickets,ArunJaitleyStadium
+07/11/2023,Afghanistan,Australia,Australia,wonby3wickets,WankhedeStadium
+08/11/2023,England,Netherlands,England,wonby160runs,MaharashtraCricketAssociationStadium
+09/11/2023,New Zealand,SriLanka,New Zealand,wonby5wickets,MChinnaswamyStadium
+10/11/2023,Afghanistan,South Africa,South Africa,wonby5wickets,NarendraModiStadium
+11/11/2023,Australia,Bangladesh,Australia,wonby8wickets,MaharashtraCricketAssociationStadium
+11/11/2023,England,Pakistan,England,wonby93runs,"EdenGardens	"
+12/11/2023,India,Netherlands,India,wonby160runs,"MChinnaswamyStadium	"
+15/11/2023,India,New Zealand,India,wonby70runs,WankhedeStadium
+16/11/2023,Australia,South Africa,Australia,wonby3wickets,"EdenGardens	"
+19/11/2023,India,Australia,Australia,wonby6wickets,NarendraModiStadium
+03/12/2023,WestIndies,England,WestIndies,wonby4wickets,SirVivianRichardsStadium
+06/12/2023,WestIndies,England,England,wonby6wickets,SirVivianRichardsStadium
+09/12/2023,WestIndies,England,WestIndies,wonby4wickets,KensingtonOval
+17/12/2023,South Africa,India,India,wonby8wickets,"WanderersStadium	"
+17/12/2023,New Zealand,Bangladesh,New Zealand,wonby44runs,UniversityOval
+19/12/2023,South Africa,India,South Africa,wonby8wickets,"StGeorge'sPark	"
+20/12/2023,New Zealand,Bangladesh,New Zealand,wonby7wickets,SaxtonOval
+21/12/2023,South Africa,India,India,wonby78runs,BolandPark
+23/12/2023,New Zealand,Bangladesh,Bangladesh,wonby9wickets,McLeanPark
+02/02/2024,Australia,WestIndies,Australia,wonby8wickets,MelbourneCricketGround
+04/02/2024,Australia,WestIndies,Australia,wonby83runs,SydneyCricketGround
+06/02/2024,Australia,WestIndies,Australia,wonby8wickets,ManukaOval
+11/02/2024,SriLanka,Afghanistan,SriLanka,wonby155runs,PallekeleInternationalCricketStadium
+14/02/2024,SriLanka,Afghanistan,SriLanka,wonby7wickets,PallekeleInternationalCricketStadium
+07/03/2024,Afghanistan,Ireland,Afghanistan,wonby35runs,SharjahCricketStadium
+09/03/2024,Afghanistan,Ireland,Matchabandoned,Matchabandoned,SharjahCricketStadium
+12/03/2024,Afghanistan,Ireland,Afghanistan,wonby117runs,SharjahCricketStadium
+13/03/2024,Bangladesh,SriLanka,Bangladesh,wonby6wickets,ZahurAhmedChowdhuryStadium
+15/03/2024,Bangladesh,SriLanka,SriLanka,wonby6wickets,ZahurAhmedChowdhuryStadium
+18/03/2024,Bangladesh,SriLanka,Bangladesh,wonby6wickets,ZahurAhmedChowdhuryStadium
+02/08/2024,SriLanka,India,Tied,Tied,RPremadasaStadium
+04/08/2024,SriLanka,India,SriLanka,wonby32runs,RPremadasaStadium
+07/08/2024,SriLanka,India,SriLanka,wonby110runs,RPremadasaStadium
+18/09/2024,Afghanistan,South Africa,Afghanistan,wonby6wickets,SharjahCricketStadium
+19/09/2024,England,Australia,Australia,wonby7wickets,TrentBridge
+20/09/2024,Afghanistan,South Africa,Afghanistan,wonby177runs,SharjahCricketStadium
+21/09/2024,England,Australia,Australia,wonby68runs,Headingley
+22/09/2024,Afghanistan,South Africa,South Africa,wonby7wickets,SharjahCricketStadium
+24/09/2024,England,Australia,England,wonby46runs,RiversideGround
+27/09/2024,England,Australia,England,wonby186runs,Lord's
+29/09/2024,England,Australia,Australia,wonby49runs,"CountyGround(Bristol)	"
+02/10/2024,Ireland,South Africa,South Africa,wonby139runs,SheikhZayedStadium
+04/10/2024,Ireland,South Africa,South Africa,wonby174runs,SheikhZayedStadium
+07/10/2024,Ireland,South Africa,Ireland,wonby69runs,SheikhZayedStadium
+31/10/2024,WestIndies,England,WestIndies,wonby8wickets,SirVivianRichardsStadium
+02/11/2024,WestIndies,England,England,wonby5wickets,SirVivianRichardsStadium
+04/11/2024,Australia,Pakistan,Australia,wonby2wickets,MelbourneCricketGround
+06/11/2024,Afghanistan,Bangladesh,Afghanistan,wonby92runs,SharjahCricketStadium
+06/11/2024,WestIndies,England,WestIndies,wonby8wickets,KensingtonOval
+08/11/2024,Australia,Pakistan,Pakistan,wonby9wickets,AdelaideOval
+09/11/2024,Afghanistan,Bangladesh,Bangladesh,wonby68runs,SharjahCricketStadium
+10/11/2024,Australia,Pakistan,Pakistan,wonby8wickets,PerthStadium
+11/11/2024,Afghanistan,Bangladesh,Afghanistan,wonby5wickets,SharjahCricketStadium
+17/11/2024,SriLanka,New Zealand,SriLanka,wonby3wickets,PallekeleInternationalCricketStadium
+19/11/2024,SriLanka,New Zealand,Noresult,Noresult,PallekeleInternationalCricketStadium
+24/11/2024,Zimbabwe,Pakistan,Zimbabwe,wonby80runs,QueensSportsClub
+26/11/2024,Zimbabwe,Pakistan,Pakistan,wonby10wickets,QueensSportsClub
+28/11/2024,Zimbabwe,Pakistan,Pakistan,wonby99runs,QueensSportsClub
+08/12/2024,WestIndies,Bangladesh,WestIndies,wonby5wickets,WarnerPark
+10/12/2024,WestIndies,Bangladesh,WestIndies,wonby7wickets,WarnerPark
+12/12/2024,WestIndies,Bangladesh,WestIndies,wonby4wickets,WarnerPark
+17/12/2024,South Africa,Pakistan,Pakistan,wonby3wickets,BolandPark
+17/12/2024,Zimbabwe,Afghanistan,Noresult,Noresult,HarareSportsClub
+19/12/2024,South Africa,Pakistan,Pakistan,wonby81runs,Newlands
+19/12/2024,Zimbabwe,Afghanistan,Afghanistan,wonby232runs,HarareSportsClub
+21/12/2024,Zimbabwe,Afghanistan,Afghanistan,wonby8wickets,HarareSportsClub
+22/12/2024,South Africa,Pakistan,Pakistan,wonby36runs,WanderersStadium
+"09/02/2024	",SriLanka,Afghanistan,SriLanka,wonby42runs,PallekeleInternationalCricketStadium
+"13/11/2024	",SriLanka,New Zealand,SriLanka,wonby45runs,RangiriDambullaInternationalStadium
